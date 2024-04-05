@@ -2,10 +2,10 @@
 using namespace std;
 int main() {
 
-    long long a, b;
-    cin >> a >> b;
+    long long a, b; // 变量
+    cin >> a >> b; // 读入
 
-    cout << a + b;
+    cout << a + b; // 输出和
 
     return 0;
 }
