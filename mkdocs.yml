@@ -9,6 +9,9 @@ strict: false
 
 copyright: 'WFLengXueNong and Her Students'
 
+theme:
+  name: material
+
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
@@ -20,6 +23,3 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
-
-theme:
-  name: material
