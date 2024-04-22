@@ -23,15 +23,3 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
-
-- 主页: index.md
-- 洛谷题目:
-    - 题解专栏:  
-      - P1000: 题解区/P1000/题解.md
-      - P1001: 题解区/P1001/题解.md
-      - ABC349C: 题解区/ABC349C/题解.md
-    - 自编题专栏: 
-- 玩意袋:
-    - 小工具: 小工具.md 
-- 博客:
-    - 你干嘛~:
