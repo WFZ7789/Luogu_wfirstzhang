@@ -3,6 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.8-blue) 
 ![GitHub License](https://img.shields.io/github/license/WFZ7789/Luogu_wfirstzhang)
 
+--------
+
+![](index.jpg)
+
+--------
+
 ## 构建工具
 
 [CloudFlare](https://www.cloudflare.com/)
