@@ -5,7 +5,7 @@
 
 --------
 
-![](index.jpg)
+![](cdn/index.jpg)
 
 --------
 
