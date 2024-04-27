@@ -7,6 +7,8 @@
 
 ![](cdn/index.jpg)
 
+> [洛谷主题链接](https://www.luogu.com.cn/theme/design/233436)
+
 --------
 
 ## 构建工具
